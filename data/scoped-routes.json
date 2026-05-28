@@ -1,0 +1,61 @@
+{
+  "guides": [
+    {
+      "path": "/sleep",
+      "url": "https://www.betterbuylab.com/sleep",
+      "pageType": "category"
+    },
+    {
+      "path": "/sleep/best-mattress-side-sleepers",
+      "url": "https://www.betterbuylab.com/sleep/best-mattress-side-sleepers",
+      "pageType": "buying-guide"
+    },
+    {
+      "path": "/sleep/best-cooling-mattress",
+      "url": "https://www.betterbuylab.com/sleep/best-cooling-mattress",
+      "pageType": "buying-guide"
+    }
+  ],
+  "productNotes": [
+    {
+      "path": "/reviews/allswell-hybrid",
+      "url": "https://www.betterbuylab.com/reviews/allswell-hybrid"
+    },
+    {
+      "path": "/reviews/boring-hybrid",
+      "url": "https://www.betterbuylab.com/reviews/boring-hybrid"
+    },
+    {
+      "path": "/reviews/brooklyn-bedding-signature-hybrid",
+      "url": "https://www.betterbuylab.com/reviews/brooklyn-bedding-signature-hybrid"
+    },
+    {
+      "path": "/reviews/casper-snow",
+      "url": "https://www.betterbuylab.com/reviews/casper-snow"
+    },
+    {
+      "path": "/reviews/helix-midnight-luxe-2025",
+      "url": "https://www.betterbuylab.com/reviews/helix-midnight-luxe-2025"
+    },
+    {
+      "path": "/reviews/purple-mattress",
+      "url": "https://www.betterbuylab.com/reviews/purple-mattress"
+    },
+    {
+      "path": "/reviews/purple-restoreplus-hybrid",
+      "url": "https://www.betterbuylab.com/reviews/purple-restoreplus-hybrid"
+    },
+    {
+      "path": "/reviews/saatva-latex-hybrid",
+      "url": "https://www.betterbuylab.com/reviews/saatva-latex-hybrid"
+    },
+    {
+      "path": "/reviews/silk-and-snow-mattress",
+      "url": "https://www.betterbuylab.com/reviews/silk-and-snow-mattress"
+    },
+    {
+      "path": "/reviews/tuft-and-needle-mint",
+      "url": "https://www.betterbuylab.com/reviews/tuft-and-needle-mint"
+    }
+  ]
+}

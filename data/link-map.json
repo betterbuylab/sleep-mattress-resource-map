@@ -1,0 +1,29 @@
+{
+  "website": [
+    {
+      "url": "https://www.betterbuylab.com/sleep",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/sleep"
+    },
+    {
+      "url": "https://www.betterbuylab.com/sleep/best-mattress-side-sleepers",
+      "anchor": "Better Buy Lab sleep guide",
+      "path": "/sleep/best-mattress-side-sleepers"
+    },
+    {
+      "url": "https://www.betterbuylab.com/sleep/best-cooling-mattress",
+      "anchor": "Better Buy Lab sleep guide",
+      "path": "/sleep/best-cooling-mattress"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/betterbuylab/better-buy-lab-resources",
+      "anchor": "central hub"
+    },
+    {
+      "url": "https://github.com/betterbuylab/air-quality-buying-resource-map",
+      "anchor": "air-quality-buying-resource-map"
+    }
+  ]
+}
