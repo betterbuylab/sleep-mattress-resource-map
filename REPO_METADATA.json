@@ -1,27 +1,27 @@
 {
   "repoName": "sleep-mattress-resource-map",
-  "description": "Maps mattresses for side sleepers, cooling, firmness, shoulder and hip pressure, and trial homework.",
+  "shortDescription": "Better Buy Lab resource map for mattress buying guides, side sleepers, hot sleepers, firmness, pressure relief, and comfort trade-offs.",
+  "description": "Better Buy Lab resource map for mattress buying guides, side sleepers, hot sleepers, firmness, pressure relief, and comfort trade-offs.",
   "homepage": "https://www.betterbuylab.com/sleep",
   "topics": [
-    "mattress",
+    "betterbuylab",
+    "buying-guides",
+    "product-research",
+    "mattresses",
     "side-sleeper",
     "sleep-comfort",
     "cooling",
-    "buying-guides",
-    "product-research",
-    "betterbuylab",
+    "firmness",
+    "buyer-fit",
     "sleep"
   ],
   "visibility": "public",
   "pinnedRecommendation": false,
+  "profilePurpose": "Mattress comfort and trial homework maps without live price windows.",
   "primaryWebsitePages": [
     "/sleep",
     "/sleep/best-mattress-side-sleepers",
     "/sleep/best-cooling-mattress"
   ],
-  "siblingRepos": [
-    "better-buy-lab-resources",
-    "air-quality-buying-resource-map"
-  ],
-  "complianceNotes": "Scoped README links only; no live price language."
+  "complianceNotes": "No live prices or retailer verified value claims in mapped guides."
 }
