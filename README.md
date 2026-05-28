@@ -2,7 +2,8 @@
 
 Better Buy Lab resource map for mattress buying guides, side sleepers, hot sleepers, firmness, pressure relief, and comfort trade-offs.
 
-**Website:** [official Better Buy Lab website](https://www.betterbuylab.com/sleep)
+**Website:** [official Better Buy Lab website](https://www.betterbuylab.com/)
+**Category hub:** [Better Buy Lab category hub](https://www.betterbuylab.com/sleep)
 **Central hub:** [better-buy-lab-resources](https://github.com/betterbuylab/better-buy-lab-resources)
 
 > Better Buy Lab is a product research and buying-guide publisher—not a retailer, price tracker, deal feed, warranty provider, manufacturer, or first-party test lab unless a specific page supports that claim. Product details, listings, and availability change; verify on retailer sites.
